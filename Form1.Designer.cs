@@ -93,7 +93,7 @@
             // 
             // btnGravar
             // 
-            btnGravar.Location = new Point(547, 80);
+            btnGravar.Location = new Point(544, 290);
             btnGravar.Name = "btnGravar";
             btnGravar.Size = new Size(127, 29);
             btnGravar.TabIndex = 6;
@@ -103,7 +103,7 @@
             // 
             // btnListar
             // 
-            btnListar.Location = new Point(414, 80);
+            btnListar.Location = new Point(411, 290);
             btnListar.Name = "btnListar";
             btnListar.Size = new Size(127, 29);
             btnListar.TabIndex = 7;
@@ -123,7 +123,7 @@
             // 
             // btnNovo
             // 
-            btnNovo.Location = new Point(281, 80);
+            btnNovo.Location = new Point(544, 74);
             btnNovo.Name = "btnNovo";
             btnNovo.Size = new Size(127, 29);
             btnNovo.TabIndex = 9;
